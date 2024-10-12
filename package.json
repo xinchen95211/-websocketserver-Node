@@ -11,6 +11,9 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"ws": "^8.18.0"
+		"ws": "^8.18.0"，
+		"@vercel/postgres": "^0.7.2",
+		"dotenv": "^16.4.1",
+		"express": "^4.18.2"
 	}
 }
