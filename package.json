@@ -1,16 +1,16 @@
 {
-  "name": "my-nodejs-project",
-  "version": "1.0.0",
-  "description": "A simple Node.js project",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    // 依赖项将在这里列出，例如：
-    "ws": "^8.18.0"
-  },
-  "devDependencies": {
-    // 开发依赖项将在这里列出
-  }
+	"name": "express",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ws": "^8.18.0"
+	}
 }
